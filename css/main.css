@@ -1,0 +1,21 @@
+/* Cascading Stylesheets */
+/* CSS selector */
+h1 {
+	color: blue;
+}
+p {
+	/*CSS Property: value; */
+	color: blue;
+
+}
+/* this selects all buttons on my age*/
+button {
+	/*this changes the background of the button element*/
+	background-color: tomato;
+	color: white;
+	border: none;
+	padding: 20px 30px;
+	text-transform: uppercase;
+	font-weight: bold;
+	box-shadow: -8px 10px 15px grey;
+}
